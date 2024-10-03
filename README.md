@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💚
 
-Meu nome é Jonas Lederer
+Meu nome é **Jonas Lederer**
 
 - Sou estudante no 1° ano do ensino médio do Colégio Fritz Kliewer
 - Estou estudadando na [Alura](https://alura.com.br)
